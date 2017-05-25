@@ -18,7 +18,7 @@ router.post('/', function (req, res, next) {
             res.cookie('userId', json.userId, {expires: new Date(Date.now() + 10000 * 60 * 60)});
             res.cookie('userName', json.userName, {expires: new Date(Date.now() + 10000 * 60 * 60)});
             res.cookie('headPicture', json.headPicture, {expires: new Date(Date.now() + 10000 * 60 * 60)});
-            res.redirect('//localhost:8080');
+            res.render('index');
         } else {
             res.render('error');
         }

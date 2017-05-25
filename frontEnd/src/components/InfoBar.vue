@@ -84,7 +84,7 @@
                 userName=null;expires=${expireDate};headPicture=null;
                 expires=${expireDate}`;
                 document.cookie = cookie;
-                location.replace('//localhost:3000');
+                location.replace('//www.bradyzhang.cn:3000');
             }
         }
     }
