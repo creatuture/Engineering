@@ -8,26 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb81c049-e7c6-4d87-b83e-1026ee6d30d2" name="Default" comment="更新主干">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backEnd/public/javascript/app.e9129f274d0db6e67ff3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backEnd/public/javascript/manifest.23e9d84c60b9aabc47f7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backEnd/public/javascript/vendor.66dfaba78c233c49bc5b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backEnd/public/stylesheets/app.3d37b6467780f76dd3605134d449e716.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/backEnd/public/javascript/app.24798d6108a05e3596a2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/backEnd/public/javascript/app.24798d6108a05e3596a2.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/backEnd/public/javascript/manifest.ba9f70cea558ce1b0135.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/backEnd/public/javascript/manifest.ba9f70cea558ce1b0135.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/backEnd/public/javascript/vendor.7ee37349a9afe0366c21.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/backEnd/public/javascript/vendor.7ee37349a9afe0366c21.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/backEnd/public/stylesheets/app.987b9b466035b62fc611a78a0f80685e.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/backEnd/public/stylesheets/app.987b9b466035b62fc611a78a0f80685e.css.map" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backEnd/db/Model.js" afterPath="$PROJECT_DIR$/backEnd/db/Model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backEnd/public/stylesheets/wangEditor.min.css" afterPath="$PROJECT_DIR$/backEnd/public/stylesheets/wangEditor.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backEnd/routes/login.js" afterPath="$PROJECT_DIR$/backEnd/routes/login.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backEnd/views/index.ejs" afterPath="$PROJECT_DIR$/backEnd/views/index.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontEnd/index.html" afterPath="$PROJECT_DIR$/frontEnd/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontEnd/src/components/InfoBar.vue" afterPath="$PROJECT_DIR$/frontEnd/src/components/InfoBar.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontEnd/src/tools/index.js" afterPath="$PROJECT_DIR$/frontEnd/src/tools/index.js" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,18 +41,28 @@
       <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backEnd/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="330">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backEnd/routes/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="330">
+              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backEnd/db/Model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -194,13 +186,13 @@
         <option value="$PROJECT_DIR$/frontEnd/src/components/container/MainContent/showDocContent/DocContent.vue" />
         <option value="$PROJECT_DIR$/backEnd/socket/index.js" />
         <option value="$PROJECT_DIR$/frontEnd/src/components/contentBar/Groups.vue" />
-        <option value="$PROJECT_DIR$/backEnd/db/Model.js" />
         <option value="$PROJECT_DIR$/frontEnd/src/tools/index.js" />
         <option value="$PROJECT_DIR$/backEnd/public/stylesheets/wangEditor.min.css" />
         <option value="$PROJECT_DIR$/frontEnd/src/components/InfoBar.vue" />
         <option value="$PROJECT_DIR$/frontEnd/index.html" />
         <option value="$PROJECT_DIR$/backEnd/views/index.ejs" />
         <option value="$PROJECT_DIR$/backEnd/routes/login.js" />
+        <option value="$PROJECT_DIR$/backEnd/db/Model.js" />
       </list>
     </option>
   </component>
@@ -408,7 +400,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
+              <option name="myItemId" value="db" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -820,7 +812,7 @@
       <workItem from="1494202933742" duration="326000" />
       <workItem from="1495610404487" duration="658000" />
       <workItem from="1495620692819" duration="24050000" />
-      <workItem from="1495671480175" duration="919000" />
+      <workItem from="1495671480175" duration="1234000" />
     </task>
     <task id="LOCAL-00001" summary="创建前后端开发目录">
       <created>1481770944425</created>
@@ -889,7 +881,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="419471000" />
+    <option name="totallyTimeSpent" value="419786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1264,14 +1256,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backEnd/db/Model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backEnd/node_modules/mysql/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1373,16 +1357,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backEnd/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="330">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backEnd/routes/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="330">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backEnd/db/Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
           <folding />
         </state>
       </provider>

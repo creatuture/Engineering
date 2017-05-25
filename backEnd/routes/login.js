@@ -13,6 +13,7 @@ router.post('/', function (req, res, next) {
         userName : filterString(req.body.userName),
         password : password
     };
+    console.log(data);
     User.verifyUser(data, function (json) {
         if (json.result == 0) {
             res.cookie('userId', json.userId, {expires: new Date(Date.now() + 10000 * 60 * 60)});
